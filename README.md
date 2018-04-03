@@ -1,4 +1,7 @@
-# Brave Sync
+# Brave Synchronicity
+
+Synchronicity is the staging branch of [sync](https://github.com/brave/sync) and is created for internal testing purposes only. If you're looking for a sync library please check the original.
+
 
 [![Build
 Status](https://travis-ci.org/brave/sync.svg?branch=master)](https://travis-ci.org/brave/sync)
